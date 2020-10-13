@@ -1,0 +1,153 @@
+[
+  {
+    "keyword": "Feature",
+    "name": "Login a user in a website",
+    "line": 1,
+    "id": "login-a-user-in-a-website",
+    "tags": [],
+    "uri": "features\\Login.feature",
+    "elements": [
+      {
+        "id": "login-a-user-in-a-website;login-in-a-xyz-bank-website",
+        "keyword": "Scenario",
+        "line": 6,
+        "name": "Login in a xyz bank website",
+        "tags": [],
+        "type": "scenario",
+        "steps": [
+          {
+            "keyword": "Before",
+            "hidden": true,
+            "match": {
+              "location": "hook\\Hook.js:13"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 1410000000
+            }
+          },
+          {
+            "keyword": "Before",
+            "hidden": true,
+            "match": {
+              "location": "hook\\Hook.js:13"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 96000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 4,
+            "name": "I should able to navigate xyz bank website with \"qa\" enviroment",
+            "match": {
+              "location": "step-defination\\Login.js:9"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 4225000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 7,
+            "name": "I should able to click on customer login",
+            "match": {
+              "location": "step-defination\\Login.js:13"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 3592000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 8,
+            "name": "I should able to login with \"Harry Potter\" name",
+            "match": {
+              "location": "step-defination\\Login.js:17"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 2159000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 9,
+            "name": "I should able to login button",
+            "match": {
+              "location": "step-defination\\Login.js:21"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 191000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 10,
+            "name": "I should able to user \"Harry Potter\" as login",
+            "match": {
+              "location": "step-defination\\Login.js:25"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 2022000000
+            }
+          },
+          {
+            "keyword": "After",
+            "hidden": true,
+            "match": {
+              "location": "hook\\Hook.js:26"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 66000000
+            }
+          },
+          {
+            "keyword": "After",
+            "hidden": true,
+            "match": {
+              "location": "hook\\Hook.js:26"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 61000000
+            }
+          },
+          {
+            "keyword": "After",
+            "hidden": true,
+            "match": {
+              "location": "node_modules\\protractor-cucumber-framework\\lib\\resultsCapturer.js:27"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 2000000
+            }
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "browser": {
+        "name": "chrome",
+        "version": "86.0.4240.75"
+      },
+      "device": "",
+      "platform": {
+        "name": "",
+        "version": ""
+      }
+    }
+  }
+]

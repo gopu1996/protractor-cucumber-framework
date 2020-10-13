@@ -1,0 +1,283 @@
+[
+  {
+    "keyword": "Feature",
+    "name": "Register a user in a website",
+    "line": 1,
+    "id": "register-a-user-in-a-website",
+    "tags": [],
+    "uri": "features\\Registration.feature",
+    "elements": [
+      {
+        "id": "register-a-user-in-a-website;enter-personal-info-for-a-particular-user",
+        "keyword": "Scenario",
+        "line": 6,
+        "name": "Enter Personal info for a particular user",
+        "tags": [],
+        "type": "scenario",
+        "steps": [
+          {
+            "keyword": "Before",
+            "hidden": true,
+            "match": {
+              "location": "hook\\Hook.js:13"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 117000000
+            }
+          },
+          {
+            "keyword": "Before",
+            "hidden": true,
+            "match": {
+              "location": "hook\\Hook.js:13"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 78000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 4,
+            "name": "I should able to navigate demo.automationtesting website with \"qa\" enviroment",
+            "match": {
+              "location": "step-defination\\Registration.js:10"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 7472000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 7,
+            "name": "I should able to enter firstname \"Gopu\" and lastname \"pandey\"",
+            "match": {
+              "location": "step-defination\\Registration.js:14"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 880000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 8,
+            "name": "I should able to enter \"Banglore, india\" address",
+            "match": {
+              "location": "step-defination\\Registration.js:18"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 182000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 9,
+            "name": "I should able enter \"gopu123@gmail.com\" email address",
+            "match": {
+              "location": "step-defination\\Registration.js:22"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 158000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 10,
+            "name": "I should able enter \"9883738608\" phone number",
+            "match": {
+              "location": "step-defination\\Registration.js:26"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 194000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 11,
+            "name": "I should Able to Select \"Male\" gender",
+            "match": {
+              "location": "step-defination\\Registration.js:30"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 152000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 12,
+            "name": "I should able to select \"Cricket\"  hobbies of a user",
+            "match": {
+              "location": "step-defination\\Registration.js:34"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 299000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 14,
+            "name": "I should able to select \"Java\" skills of a user",
+            "match": {
+              "location": "step-defination\\Registration.js:42"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 3217000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 15,
+            "name": "I should able to select \"India\" country of a user",
+            "match": {
+              "location": "step-defination\\Registration.js:46"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 3211000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 16,
+            "name": "I should able to select Random Country of a user",
+            "match": {
+              "location": "step-defination\\Registration.js:50"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 1509000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 17,
+            "name": "I should able to select Random Date of Birth of a user",
+            "match": {
+              "location": "step-defination\\Registration.js:54"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 3517000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 18,
+            "name": "I should able to enter password \"Gopu@1234\" and confirm password \"Gopu@1234\" of a user",
+            "match": {
+              "location": "step-defination\\Registration.js:58"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 775000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 19,
+            "name": "I should able to upload photo of a user",
+            "match": {
+              "location": "step-defination\\Registration.js:62"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 198000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 20,
+            "name": "I should able to click on submit button",
+            "match": {
+              "location": "step-defination\\Registration.js:66"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 329000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 21,
+            "name": "I should able to see \"http://demo.automationtesting.in/WebTable.html\" webtable page",
+            "match": {
+              "location": "step-defination\\Registration.js:70"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 10014000000
+            }
+          },
+          {
+            "keyword": "After",
+            "hidden": true,
+            "match": {
+              "location": "hook\\Hook.js:26"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 80000000
+            }
+          },
+          {
+            "keyword": "After",
+            "hidden": true,
+            "match": {
+              "location": "hook\\Hook.js:26"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 78000000
+            }
+          },
+          {
+            "keyword": "After",
+            "hidden": true,
+            "match": {
+              "location": "node_modules\\protractor-cucumber-framework\\lib\\resultsCapturer.js:27"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 2000000
+            }
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "browser": {
+        "name": "chrome",
+        "version": "86.0.4240.75"
+      },
+      "device": "",
+      "platform": {
+        "name": "",
+        "version": ""
+      }
+    }
+  }
+]

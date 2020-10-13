@@ -1,0 +1,38 @@
+[2020-10-12T15:45:28.049] [INFO] default - Send a text in a field value is:  Gopu
+[2020-10-12T15:45:28.535] [INFO] default - Send a text in a field value is:  pandey
+[2020-10-12T15:45:28.719] [INFO] default - Send a text in a field value is:  Banglore, india
+[2020-10-12T15:45:28.878] [INFO] default - Send a text in a field value is:  gopu123@gmail.com
+[2020-10-12T15:45:29.072] [INFO] default - Send a text in a field value is:  9883738608
+[2020-10-12T15:45:29.078] [INFO] default - Gender selected by user Male
+[2020-10-12T15:45:29.231] [INFO] default - Hobbies selected by user Cricket
+[2020-10-12T15:45:35.969] [INFO] default - Waiting for visibility of element  :  [object Object]
+[2020-10-12T15:45:37.525] [INFO] default - Number genrating 1 to  :  11
+[2020-10-12T15:45:38.555] [INFO] default - Number genrating 1 to  :  101
+[2020-10-12T15:45:39.804] [INFO] default - Number genrating 1 to  :  13
+[2020-10-12T15:45:41.050] [INFO] default - Number genrating 1 to  :  32
+[2020-10-12T15:45:41.373] [INFO] default - Send a text in a field value is:  Gopu@1234
+[2020-10-12T15:45:41.765] [INFO] default - Send a text in a field value is:  Gopu@1234
+[2020-10-12T15:45:41.964] [INFO] default - Send a text in a field value is:  C:\WebDevelopment\protractor-cucumber\File\cris.jpg
+[2020-10-12T15:45:52.322] [INFO] default - ---------------------------------------------------------------------------
+[2020-10-12T15:45:52.331] [INFO] default - Test Method Execution Completed at : 10-12-2020 15:45:52
+[2020-10-12T15:45:52.338] [INFO] default - ****************************************************************************
+[2020-10-12T15:45:52.380] [INFO] default - Total Duration : 0 minutes 46 seconds
+[2020-10-12T15:45:52.393] [INFO] default - 10-12-2020 15:45:52 Test Execution Completed
+[2020-10-12T15:45:52.407] [INFO] default - ---------------------------------------------------------------------------
+[2020-10-12T15:45:52.431] [INFO] default - ****************************************************************************
+[2020-10-12T15:45:52.426] [INFO] default - Test Method Execution Completed at : 10-12-2020 15:45:52
+[2020-10-12T15:45:52.478] [INFO] default - 10-12-2020 15:45:52 Test Execution Completed
+[2020-10-12T15:45:52.457] [INFO] default - Total Duration : 0 minutes 46 seconds
+[2020-10-12T20:17:23.716] [INFO] default - 10-12-2020 20:17:23 Test Execution Started
+[2020-10-12T20:17:23.724] [INFO] default - ****************************************************************************
+[2020-10-12T20:17:23.776] [INFO] default - Set waitForAngularEnabled = true
+[2020-10-12T20:17:23.784] [INFO] default - Set ignoreSynchronization = true
+[2020-10-12T20:17:23.817] [INFO] default - Test Method Execution Started at : 10-12-2020 20:17:23
+[2020-10-12T20:17:23.843] [INFO] default - ---------------------------------------------------------------------------
+[2020-10-12T20:17:23.877] [INFO] default - 10-12-2020 20:17:23 Test Execution Started
+[2020-10-12T20:17:23.945] [INFO] default - ****************************************************************************
+[2020-10-12T20:17:23.982] [INFO] default - Set waitForAngularEnabled = true
+[2020-10-12T20:17:24.020] [INFO] default - Set ignoreSynchronization = true
+[2020-10-12T20:17:24.028] [INFO] default - Test Method Execution Started at : 10-12-2020 20:17:24
+[2020-10-12T20:17:24.030] [INFO] default - ---------------------------------------------------------------------------
+[2020-10-12T20:17:24.058] [DEBUG] default - Navigated to QA URL http://demo.automationtesting.in/Register.html
